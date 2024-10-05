@@ -1,11 +1,10 @@
-<h1 style="font-family: Georgia, serif; ;font-size: 56px; color: #2c3e50;">/Abhijit Patil</h1>
+<h1 style="font-family: Georgia, serif; ;font-size: 56px; color: #2c3e50;">/Harshita Karnam</h1>
 
 
-![Header Image](https://github.com/user-attachments/assets/657233d4-4ea4-4300-a095-30b273524462)
+![savedWallpaper](https://github.com/user-attachments/assets/3079e6e0-b361-4c89-83f4-72e3bc158e13)
 
 
 <p style="font-family: Georgia, serif; font-size: 16px; color: #2c3e50;">
-Currently a B.Tech student at IIIT Sri City. I'm all about tech, creativity, and a good movie night. Outside of coding, I enjoy exploring new hobbies and staying curious.
 
 </p>
 
